@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.hello{
+    font-size: 40px;
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+.jack{
+    color: rgb(238, 8, 115);
+    font-size: 70px;
+}
+
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+     
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.link{
+    text-decoration: none;
+    background: rgb(238, 8, 115);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+}
+.top-banner{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 1000px;  
+}
+.midel-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.mid-banner{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.work{
+     text-align: center;
+}
+.logo{
+    width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.work-logo{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.last{ 
+    width: 600px;
+   ;
+    background: rgb(238, 8, 115);
+    
+    margin: 100px auto;
+    padding: 20px 20px;
+    border-radius: 10px;
+    
+}
+.alin{
+    text-align: center;
+}
+.footer{
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat
+}
+footer{
+    text-align: center;
+}
+p{
+    color: dimgray;
+}
